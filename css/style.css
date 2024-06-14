@@ -20,6 +20,10 @@
     background-color: #1ABC9C;
 }
 
+.bg_color_3 {
+    background-color: #3A546D;
+}
+
 ul {
     list-style: none;
     display: none;
