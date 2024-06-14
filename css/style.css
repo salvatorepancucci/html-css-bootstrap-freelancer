@@ -12,8 +12,12 @@
     margin: 10px;
 }
 
-.container_bg_color {
+.bg_color_1 {
     background-color: #2C3E50;
+}
+
+.bg_color_2 {
+    background-color: #1ABC9C;
 }
 
 ul {
