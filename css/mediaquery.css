@@ -2,10 +2,34 @@
     ul {
         display: flex;
     }
+
+    .fa-bars {
+        display: none;
+    }
+
+    img {
+        width: 300px;
+    }
+
+    .button_2 {
+        width: 13%;
+    }
 }
 
 @media screen and (min-width: 992px) {
     ul {
         display: flex;
+    }
+
+    .fa-bars {
+        display: none;
+    }
+
+    img {
+        width: 300px;
+    }
+
+    .button_2 {
+        width: 10%;
     }
 }
