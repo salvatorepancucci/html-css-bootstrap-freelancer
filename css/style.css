@@ -77,6 +77,18 @@ img {
     width: 200px;
 }
 
+.s_1 {
+    background-color: #1ABC9C;
+}
+
+.top {
+    background-color: #3A546D;
+}
+
+.bottom {
+    background-color: #2C3E50;
+}
+
 /* Utility */
 
 .bg_color_1 {
